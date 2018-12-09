@@ -1,6 +1,7 @@
 # Spotify Wrapper
-
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
+
+[![Build Status](https://travis-ci.com/thiagoadriano/estudo-spotify-wrapper.svg?branch=master)](https://travis-ci.com/thiagoadriano/estudo-spotify-wrapper)
 
 ## Browser Support
 
