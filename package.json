@@ -2,7 +2,7 @@
   "name": "spotify-wrapper",
   "version": "1.0.3",
   "description": "A wrapper to work with the Spotify Web API.",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "clear": "rimraf lib",
     "build": "npm run clear && ./node_modules/.bin/babel --out-dir lib src",
@@ -26,6 +26,10 @@
       "tests/**"
     ]
   },
+  "files":[
+    "dist",
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thiagoadriano/estudo-js-tdd.git"
